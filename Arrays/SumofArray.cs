@@ -25,8 +25,7 @@ namespace Arrays
             {
                 Sum = Sum + numbers[i];
             }
-            Console.WriteLine("Sum of Array element:{0}", Sum);
-            
+            Console.WriteLine("Sum of Array element:{0}", Sum);      
         }
     }
 }
